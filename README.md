@@ -97,11 +97,24 @@ The application will be available at `http://localhost:3000`
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-📄 License
-This project is licensed under the MIT License.
+---
+
+## 📄 Licensing and Usage Notice
+This project is released under the **MIT License**. However, please note the following important restrictions regarding branding and intellectual property:
+
+* **Trademarks and Copyright:** The **"duneon"** name and all associated logos are **not** covered by the MIT License. They are protected by copyright and remain the exclusive property of the creator, **duneon**.
+
+* **Permissions:** You are free to use, study, and modify the source code for your own purposes, as permitted by the MIT License.
+
+* **Commercial Use and Distribution:** You may use the software for commercial projects or distribute it, provided that you strictly adhere to the terms of the MIT License. 
+
+* **Branding Requirements:** If you choose to redistribute or create a derivative work for commercial purposes, you **must remove or change all "duneon" logos and references to the "duneon" name** within your version of the product.
+
+*For the full text of the MIT License, please refer to the `LICENSE` file included in this repository.*
 
 ---
-Made with ❤️ by DuneonDev — High-performance system solutions.
+
+Made with ❤️ by Duneon — High-performance system solutions.
 <br>
 website: [duneon.dev](https://duneon.dev)
 <br>
